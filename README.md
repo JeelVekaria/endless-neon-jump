@@ -14,4 +14,4 @@ Credits
 Game Development: Jeel Vekaria
 Unity Game Engine: Unity Technologies
 
-Demo Video: [https://www.youtube.com/shorts/lCP6zP_hbFI]([url](https://www.youtube.com/shorts/lCP6zP_hbFI)https://www.youtube.com/shorts/lCP6zP_hbFI)
+Demo Video [Here](https://www.youtube.com/shorts/lCP6zP_hbFI)
